@@ -13,6 +13,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.release>11</maven.compiler.release>
+           <sonar.host.url>https://f6c5-2402-3a80-415-4ace-5ea4-d525-47cc-253.in.ngrok.io/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>opgpower</sonar.password>
   </properties>
 
   <dependencies>
